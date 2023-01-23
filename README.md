@@ -31,6 +31,6 @@ l=eval(input())
 n=int(input())
 ```
 ## Output:
-![](Circulate.png)
+![MODEL](Circulate.png)
 ## Result:
 The circulating n variables using function concept is succesfully executed.
